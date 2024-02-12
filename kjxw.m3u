@@ -1,3 +1,11 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
 #EXTINF:-1 tvg-name="开江新闻综合频道" tvg-logo="https://live.fanmingming.com/tv/开江新闻综合频道.png",开江新闻综合频道
 rtmp://cr.kjzx.net/live1/live1
+#EXTINF:-1 tvg-name="达州公共频道" tvg-logo="https://live.fanmingming.com/tv/达州公共频道.png",达州公共频道
+http://tv.drs.dzxw.net/channellive/ggpd-dz2.flv
+#EXTINF:-1 tvg-name="达州通川频道" tvg-logo="https://live.fanmingming.com/tv/达州通川频道.png",达州通川频道
+http://tv.drs.dzxw.net/channellive/tcpd-dz3.flv
+#EXTINF:-1 tvg-name="达州新闻综合" tvg-logo="https://live.fanmingming.com/tv/达州新闻综合.png",达州新闻综合
+http://tv.drs.dzxw.net/channellive/xwzhpd-dz1.flv
+#EXTINF:-1 tvg-name="万源新闻综合" tvg-logo="https://live.fanmingming.com/tv/万源新闻综合.png",万源新闻综合
+http://live.wanyuannews.com/wytv/hd/live.m3u8
