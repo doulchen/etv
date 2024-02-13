@@ -11,3 +11,5 @@ http://tv.drs.dzxw.net/channellive/xwzhpd-dz1.flv
 http://live.wanyuannews.com/wytv/hd/live.m3u8
 #EXTINF:-1 tvg-name="渠县新闻综合" tvg-logo="https://live.fanmingming.com/tv/渠县新闻综合.png",渠县新闻综合
 http://222.208.224.227:81/hls/cfp2p8m3.m3u8
+#EXTINF:-1 tvg-name="成都新闻综合频道" tvg-logo="https://live.fanmingming.com/tv/成都新闻综合频道.png",成都新闻综合频道
+https://cdn1.cditv.cn/cdtv1high/CDTV1High.flv/playlist.m3u8?wsSecret=5b3c0cbd065b5d2758d2e8ad71e81c01&wsTime=65cbcb5c
