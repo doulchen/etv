@@ -9,3 +9,5 @@ http://tv.drs.dzxw.net/channellive/tcpd-dz3.flv
 http://tv.drs.dzxw.net/channellive/xwzhpd-dz1.flv
 #EXTINF:-1 tvg-name="万源新闻综合" tvg-logo="https://live.fanmingming.com/tv/万源新闻综合.png",万源新闻综合
 http://live.wanyuannews.com/wytv/hd/live.m3u8
+#EXTINF:-1 tvg-name="渠县新闻综合" tvg-logo="https://live.fanmingming.com/tv/渠县新闻综合.png",渠县新闻综合
+http://222.208.224.227:81/hls/cfp2p8m3.m3u8
