@@ -1,35 +1,35 @@
-#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
-#EXTINF:-1 tvg-name="CDTV1" tvg-logo="https://live.fanmingming.com/tv/CDTV-1高清.png",CDTV-1高清
+#EXTM3U
+#EXTINF:-1 tvg-id="2064" tvg-name="CDTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv1.png" group-title="四川",CDTV-1高清
 http://192.168.50.1:8686/rtp/239.93.0.16:5140
-#EXTINF:-1 tvg-name="CDTV2" tvg-logo="https://live.fanmingming.com/tv/CDTV-2高清.png",CDTV-2高清
+#EXTINF:-1 tvg-id="2065" tvg-name="CDTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv2.png" group-title="四川",CDTV-2高清
 http://192.168.50.1:8686/rtp/239.93.0.17:1239
-#EXTINF:-1 tvg-name="CDTV3" tvg-logo="https://live.fanmingming.com/tv/CDTV-3高清.png",CDTV-3高清
+#EXTINF:-1 tvg-id="2066" tvg-name="CDTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv3.png" group-title="四川",CDTV-3高清
 http://192.168.50.1:8686/rtp/239.93.0.18:1238
-#EXTINF:-1 tvg-name="CDTV4" tvg-logo="https://live.fanmingming.com/tv/CDTV-4高清.png",CDTV-4高清
+#EXTINF:-1 tvg-id="2067" tvg-name="CDTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv4.png" group-title="四川",CDTV-4高清
 http://192.168.50.1:8686/rtp/239.93.0.19:1250
-#EXTINF:-1 tvg-name="CDTV5" tvg-logo="https://live.fanmingming.com/tv/CDTV-5高清.png",CDTV-5高清
+#EXTINF:-1 tvg-id="2068" tvg-name="CDTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv5.png" group-title="四川",CDTV-5高清
 http://192.168.50.1:8686/rtp/239.93.1.231:5140
-#EXTINF:-1 tvg-name="CDTV6" tvg-logo="https://live.fanmingming.com/tv/CDTV-6高清.png",CDTV-6高清
+#EXTINF:-1 tvg-id="2069" tvg-name="CDTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv6.png" group-title="四川",CDTV-6高清
 http://192.168.50.1:8686/rtp/239.93.0.21:1251
-#EXTINF:-1 tvg-name="CDTV8" tvg-logo="https://live.fanmingming.com/tv/CDTV-8高清.png",CDTV-8高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CDTV-8高清
 http://192.168.50.1:8686/rtp/239.93.0.22:1252
-#EXTINF:-1 tvg-name="四川卫视高清" tvg-logo="https://live.fanmingming.com/tv/四川卫视高清.png",四川卫视高清
+#EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="卫视",四川卫视高清
 http://192.168.50.1:8686/rtp/239.93.0.20:1235
-#EXTINF:-1 tvg-name="SCTV-2高清" tvg-logo="https://live.fanmingming.com/tv/SCTV-2高清.png",SCTV-2高清
+#EXTINF:-1 tvg-id="2054" tvg-name="SCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv2.png" group-title="四川",SCTV-2高清
 http://192.168.50.1:8686/rtp/239.93.1.101:5140
-#EXTINF:-1 tvg-name="SCTV-3高清" tvg-logo="https://live.fanmingming.com/tv/SCTV-3高清.png",SCTV-3高清
+#EXTINF:-1 tvg-id="2055" tvg-name="SCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv3.png" group-title="四川",SCTV-3高清
 http://192.168.50.1:8686/rtp/239.93.1.102:5140
-#EXTINF:-1 tvg-name="SCTV-4高清" tvg-logo="https://live.fanmingming.com/tv/SCTV-4高清.png",SCTV-4高清
+#EXTINF:-1 tvg-id="2056" tvg-name="SCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv4.png" group-title="四川",SCTV-4高清
 http://192.168.50.1:8686/rtp/239.93.0.47:5140
-#EXTINF:-1 tvg-name="SCTV-5高清" tvg-logo="https://live.fanmingming.com/tv/SCTV-5高清.png",SCTV-5高清
+#EXTINF:-1 tvg-id="2057" tvg-name="SCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv5.png" group-title="四川",SCTV-5高清
 http://192.168.50.1:8686/rtp/239.93.0.166:5140
-#EXTINF:-1 tvg-name="SCTV-6高清" tvg-logo="https://live.fanmingming.com/tv/SCTV-6高清.png",SCTV-6高清
+#EXTINF:-1 tvg-id="2059" tvg-name="SCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv7.png" group-title="四川",SCTV-6高清
 http://192.168.50.1:8686/rtp/239.93.1.144:5140
-#EXTINF:-1 tvg-name="SCTV-7高清" tvg-logo="https://live.fanmingming.com/tv/SCTV-7高清.png",SCTV-7高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",SCTV-7高清
 http://192.168.50.1:8686/rtp/239.93.0.219:5140
-#EXTINF:-1 tvg-name="SCTV-科教高清" tvg-logo="https://live.fanmingming.com/tv/SCTV-科教高清.png",SCTV-科教高清
+#EXTINF:-1 tvg-id="2062" tvg-name="SCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv8.png" group-title="四川",SCTV-科教高清
 http://192.168.50.1:8686/rtp/239.93.42.44:5140
-#EXTINF:-1 tvg-name="四川乡村高清" tvg-logo="https://live.fanmingming.com/tv/四川乡村高清.png",四川乡村高清
+#EXTINF:-1 tvg-id="7245" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="地方",四川乡村高清
 http://192.168.50.1:8686/rtp/239.93.0.52:5140
-#EXTINF:-1 tvg-name="康巴卫视高清" tvg-logo="https://live.fanmingming.com/tv/康巴卫视高清.png",康巴卫视高清
+#EXTINF:-1 tvg-id="70" tvg-name="康巴卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/kangba.png" group-title="卫视",康巴卫视高清
 http://192.168.50.1:8686/rtp/239.93.0.41:5140
