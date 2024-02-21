@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
 #EXTINF:-1 tvg-name="开江新闻综合频道" tvg-logo="https://live.fanmingming.com/tv/开江新闻综合频道.png",开江新闻综合频道
-rtmp://lmt.kjzx.net/live1/live1
+https://lmt.kjzx.net:98/live1/live1.m3u8
 #EXTINF:-1 tvg-name="万源新闻综合频道" tvg-logo="https://live.fanmingming.com/tv/万源新闻综合频道.png",万源新闻综合频道
 http://live.wanyuannews.com/wytv/hd/live.m3u8
 #EXTINF:-1 tvg-name="渠县新闻综合频道" tvg-logo="https://live.fanmingming.com/tv/渠县新闻综合频道.png",渠县新闻综合频道
