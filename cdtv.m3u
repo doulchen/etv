@@ -65,7 +65,7 @@ http://192.168.50.1:8686/rtp/239.93.0.103:5140
 http://192.168.50.1:8686/rtp/239.93.0.92:5140
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="地方",CCTV-4K
 http://192.168.50.1:8686/rtp/239.93.42.42:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ah4k.png",爱上4K专区
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ah4k.png" group-title="数字",爱上4K专区
 http://192.168.50.1:8686/rtp/239.93.0.97:5140
 #EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="卫视",重庆卫视高清
 http://192.168.50.1:8686/rtp/239.93.1.107:5140
@@ -121,5 +121,5 @@ http://192.168.50.1:8686/rtp/239.93.0.130:5140
 http://192.168.50.1:8686/rtp/239.93.42.94:5140
 #EXTINF:-1 tvg-id="6606" tvg-name="四海钓鱼" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/BAMC4.jpg" group-title="地方",四海钓鱼
 http://192.168.50.1:8686/rtp/239.93.0.55:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",来钓鱼吧专区
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",来钓鱼吧专区
 http://192.168.50.1:8686/rtp/239.93.42.8:5140
