@@ -19,15 +19,15 @@ http://192.168.50.1:8686/rtp/239.93.1.102:5140
 http://192.168.50.1:8686/rtp/239.93.0.47:5140
 #EXTINF:-1 tvg-id="2057" tvg-name="SCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv5.png" group-title="四川",SCTV-5高清
 http://192.168.50.1:8686/rtp/239.93.0.166:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",SCTV-7高清
+#EXTINF:-1 tvg-id="" tvg-name="SCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="四川",SCTV-7高清
 http://192.168.50.1:8686/rtp/239.93.0.219:5140
 #EXTINF:-1 tvg-id="2062" tvg-name="SCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv8.png" group-title="四川",SCTV-科教高清
 http://192.168.50.1:8686/rtp/239.93.42.44:5140
-#EXTINF:-1 tvg-id="7245" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="地方",四川乡村高清
+#EXTINF:-1 tvg-id="" tvg-name="四川乡村" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Sichuan6.png" group-title="四川",四川乡村高清
 http://192.168.50.1:8686/rtp/239.93.0.52:5140
-#EXTINF:-1 tvg-id="70" tvg-name="康巴卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/kangba.png" group-title="卫视",康巴卫视高清
+#EXTINF:-1 tvg-id="70" tvg-name="康巴卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/kangba.png" group-title="四川",康巴卫视高清
 http://192.168.50.1:8686/rtp/239.93.0.41:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",峨眉电影高清
+#EXTINF:-1 tvg-id="" tvg-name="峨眉电影" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Sichuan8.png" group-title="四川",峨眉电影高清
 http://192.168.50.1:8686/rtp/239.93.0.252:5140
 #EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="卫视",四川卫视高清
 http://192.168.50.1:8686/rtp/239.93.0.20:1235
@@ -115,11 +115,11 @@ http://192.168.50.1:8686/rtp/239.93.42.42:5140
 http://192.168.50.1:8686/rtp/239.93.0.130:5140
 #EXTINF:-1 tvg-id="6606" tvg-name="四海钓鱼" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/BAMC4.jpg" group-title="地方",四海钓鱼
 http://192.168.50.1:8686/rtp/239.93.0.55:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",爱上4K专区
+#EXTINF:-1 tvg-id="" tvg-name="爱上4K" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ah4k.png" group-title="数字",爱上4K专区
 http://192.168.50.1:8686/rtp/239.93.0.97:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",来钓鱼吧专区
+#EXTINF:-1 tvg-id="" tvg-name="来钓鱼吧" tvg-logo="" group-title="数字",来钓鱼吧专区
 http://192.168.50.1:8686/rtp/239.93.42.8:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",乐游
+#EXTINF:-1 tvg-id="" tvg-name="乐游" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/leyou.png" group-title="数字",乐游
 http://192.168.50.1:8686/rtp/239.93.42.94:5140
 #EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="上海",上海纪实高清
 http://192.168.50.1:8686/rtp/239.93.1.137:5140
