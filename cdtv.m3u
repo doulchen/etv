@@ -57,7 +57,7 @@ http://192.168.50.1:8686/rtp/239.93.0.167:5140
 http://192.168.50.1:8686/rtp/239.93.0.168:5140
 #EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="卫视",江西卫视高清
 http://192.168.50.1:8686/rtp/239.93.0.134:5140
-#EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="卫视",东南卫视高清
+#EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Dongnan.png" group-title="卫视",东南卫视高清
 http://192.168.50.1:8686/rtp/239.93.0.42:5140
 #EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="卫视",黑龙江卫视高清
 http://192.168.50.1:8686/rtp/239.93.0.183:5140
