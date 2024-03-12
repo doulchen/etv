@@ -109,7 +109,7 @@ http://192.168.50.1:8686/rtp/239.93.1.29:6000
 http://192.168.50.1:8686/rtp/239.93.0.103:5140
 #EXTINF:-1 tvg-id="18" tvg-name="CCTV17" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV17.png" group-title="央视",CCTV-17高清
 http://192.168.50.1:8686/rtp/239.93.0.92:5140
-#EXTINF:-1 tvg-id="26" tvg-name="CCTV4K" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV4k.png" group-title="央视",CCTV-4K
+#EXTINF:-1 tvg-id="26" tvg-name="CCTV4K" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV4K.png" group-title="央视",CCTV-4K
 http://192.168.50.1:8686/rtp/239.93.42.42:5140
 #EXTINF:-1 tvg-id="169" tvg-name="金鹰纪实" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/jyjs.png" group-title="地方",金鹰纪实高清
 http://192.168.50.1:8686/rtp/239.93.0.130:5140
