@@ -126,7 +126,7 @@ http://192.168.50.1:8686/rtp/239.93.1.137:5140
 #EXTINF:-1 tvg-id="双流综合" tvg-name="双流综合" tvg-logo="https://gitee.com/doulchen/etv/raw/master/logo/sltv.png" group-title="成都区县",双流综合
 http://192.168.50.100:9999/CDQXTV.php/?id=557
 #EXTINF:-1 tvg-id="427" tvg-name="newtv超级综艺" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NewTV24.png" group-title="NewTV系列",超级综艺
-http://[2409:8087:7000:20::f]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226009/index.m3u8
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
 #EXTINF:-1 tvg-id="428" tvg-name="newtv超级电影" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NewTV23.png" group-title="NewTV系列",超级电影
 http://[2409:8087:1a0b:df::4006]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
 #EXTINF:-1 tvg-id="·429" tvg-name="newtv超级电视剧" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NewTV25.png" group-title="NewTV系列",超级电视剧
