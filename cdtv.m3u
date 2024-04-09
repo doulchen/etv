@@ -124,7 +124,7 @@ http://192.168.50.1:8686/rtp/239.93.42.94:5140
 #EXTINF:-1 tvg-id="196" tvg-name="纪实人文" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/jsrw.png" group-title="数字",纪实人文
 http://192.168.50.1:8686/rtp/239.93.1.137:5140
 #EXTINF:-1 tvg-id="双流综合" tvg-name="双流综合" tvg-logo="https://gitee.com/doulchen/etv/raw/master/logo/sltv.png" group-title="成都区县",双流综合
-http://192.168.50.100:9999/CDQXTV.php/?id=557
+http://192.168.50.100:9999/CDQXTV.php/?id=shuangliu
 #EXTINF:-1 tvg-id="427" tvg-name="newtv超级综艺" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NewTV24.png" group-title="NewTV系列",超级综艺
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
 #EXTINF:-1 tvg-id="428" tvg-name="newtv超级电影" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NewTV23.png" group-title="NewTV系列",超级电影
