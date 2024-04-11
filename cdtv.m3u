@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="开江新闻综合频道" tvg-logo="https://raw.githubusercontent.com/doulchen/etv/main/logo/dztv.png",开江新闻综合频道
+https://lmt.kjzx.net:98/live1/live1.m3u8
+#EXTINF:-1 tvg-name="达州文化生活频道" tvg-logo="https://raw.githubusercontent.com/doulchen/etv/main/logo/dztv.png",达州文化生活频道
+http://tv.drs.dzxw.net/channellive/ggpd-dz2.flv
+#EXTINF:-1 tvg-name="达州通川频道" tvg-logo="https://raw.githubusercontent.com/doulchen/etv/main/logo/dztv.png",达州通川频道
+http://tv.drs.dzxw.net/channellive/tcpd-dz3.flv
+#EXTINF:-1 tvg-name="达州新闻综合频道" tvg-logo="https://raw.githubusercontent.com/doulchen/etv/main/logo/dztv.png",达州新闻综合频道
+http://tv.drs.dzxw.net/channellive/xwzhpd-dz1.flv
 #EXTINF:-1 tvg-id="468" tvg-name="CDTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv1.png" group-title="四川",CDTV-1高清
 http://192.168.50.1:8686/rtp/239.93.0.16:5140
 #EXTINF:-1 tvg-id="469" tvg-name="CDTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv2.png" group-title="四川",CDTV-2高清
