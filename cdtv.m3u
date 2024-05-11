@@ -121,24 +121,12 @@ http://192.168.50.1:8686/rtp/239.93.0.92:5140
 http://192.168.50.1:8686/rtp/239.93.42.42:5140
 #EXTINF:-1 tvg-id="169" tvg-name="金鹰纪实" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/jyjs.png" group-title="地方",金鹰纪实高清
 http://192.168.50.1:8686/rtp/239.93.0.130:5140
-#EXTINF:-1 tvg-id="239" tvg-name="四海钓鱼" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/shdy.png" group-title="地方",四海钓鱼
-http://192.168.50.1:8686/rtp/239.93.0.55:5140
 #EXTINF:-1 tvg-id="" tvg-name="爱上4K" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ah4k.png" group-title="数字",爱上4K专区
 http://192.168.50.1:8686/rtp/239.93.0.97:5140
-#EXTINF:-1 tvg-id="" tvg-name="来钓鱼吧" tvg-logo="" group-title="数字",来钓鱼吧专区
-http://192.168.50.1:8686/rtp/239.93.42.8:5140
 #EXTINF:-1 tvg-id="179" tvg-name="乐游" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/leyou.png" group-title="数字",乐游
 http://192.168.50.1:8686/rtp/239.93.42.94:5140
 #EXTINF:-1 tvg-id="196" tvg-name="纪实人文" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/jsrw.png" group-title="数字",纪实人文
 http://192.168.50.1:8686/rtp/239.93.1.137:5140
-#EXTINF:-1 tvg-id="双流综合" tvg-name="双流综合" tvg-logo="https://gitee.com/doulchen/etv/raw/master/logo/sltv.png" group-title="成都区县",双流综合
-http://192.168.50.100:9999/CDQXTV.php/?id=shuangliu
-#EXTINF:-1 tvg-id="427" tvg-name="newtv超级综艺" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NewTV24.png" group-title="NewTV系列",超级综艺
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
-#EXTINF:-1 tvg-id="428" tvg-name="newtv超级电影" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NewTV23.png" group-title="NewTV系列",超级电影
-http://[2409:8087:1a0b:df::4006]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
-#EXTINF:-1 tvg-id="·429" tvg-name="newtv超级电视剧" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NewTV25.png" group-title="NewTV系列",超级电视剧
-http://[2409:8087:1a0b:df::4017]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
 #EXTINF:-1 tvg-id="180" tvg-name="CHC动作电影" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CHC3.png" group-title="央视频道",CHC动作电影
 http://192.168.50.1:8686/rtp/239.93.42.7:5140
 #EXTINF:-1 tvg-id="181" tvg-name="CHC家庭影院" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CHC2.png" group-title="央视频道",CHC家庭影院
