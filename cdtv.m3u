@@ -89,6 +89,8 @@ http://192.168.50.1:8686/rtp/239.93.1.174:5140
 http://192.168.50.1:8686/rtp/239.93.0.248:5140
 #EXTINF:-1 tvg-id="99" tvg-name="甘肃卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Gansu.png" group-title="卫视",甘肃卫视高清
 http://192.168.50.1:8686/rtp/239.93.0.81:5140
+#EXTINF:-1 tvg-id="102" tvg-name="陕西卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Shanxi.png" group-title="卫视",陕西卫视高清
+http://192.168.50.1:8686/rtp/239.93.0.143:5140	
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV1.png" group-title="央视",CCTV-1高清
 http://192.168.50.1:8686/rtp/239.93.0.58:5140
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV2.png" group-title="央视",CCTV-2高清
