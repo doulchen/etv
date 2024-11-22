@@ -37,28 +37,12 @@ http://192.168.50.1:8686/rtp/239.93.42.54:5140
 http://192.168.50.1:8686/rtp/239.93.0.92:5140
 #EXTINF:-1 tvg-id="26" tvg-name="CCTV4K" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV4K.png" group-title="央视",CCTV-4K
 http://192.168.50.1:8686/rtp/239.93.42.42:5140
-#EXTINF:-1 tvg-id="78" tvg-name="SCTV-1" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Sichuan.png" group-title="四川",SCTV-1高清
+#EXTINF:-1 tvg-id="78" tvg-name="四川卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Sichuan.png" group-title="四川",SCTV-1高清
 http://192.168.50.1:8686/rtp/239.93.0.20:1235
-#EXTINF:-1 tvg-id="113" tvg-name="SCTV2" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Sichuan1.png" group-title="四川",SCTV-2高清
-http://192.168.50.1:8686/rtp/239.93.1.101:5140
-#EXTINF:-1 tvg-id="114" tvg-name="SCTV3" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Sichuan2.png" group-title="四川",SCTV-3高清
-http://192.168.50.1:8686/rtp/239.93.1.102:5140
-#EXTINF:-1 tvg-id="115" tvg-name="SCTV4" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Sichuan3.png" group-title="四川",SCTV-4高清
-http://192.168.50.1:8686/rtp/239.93.0.47:5140
-#EXTINF:-1 tvg-id="116" tvg-name="SCTV5" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Sichuan4.png" group-title="四川",SCTV-5高清
-http://192.168.50.1:8686/rtp/239.93.0.166:5140
-#EXTINF:-1 tvg-id="117" tvg-name="SCTV7" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Sichuan5.png" group-title="四川",SCTV-7高清
-http://192.168.50.1:8686/rtp/239.93.0.219:5140
-#EXTINF:-1 tvg-id="118" tvg-name="SCTV8" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Sichuan7.png" group-title="四川",SCTV-科教高清
-http://192.168.50.1:8686/rtp/239.93.42.44:5140
-#EXTINF:-1 tvg-id="119" tvg-name="四川乡村" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Sichuan6.png" group-title="四川",四川乡村高清
-http://192.168.50.1:8686/rtp/239.93.0.52:5140
-#EXTINF:-1 tvg-id="420" tvg-name="峨眉电影" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Sichuan8.png" group-title="四川",峨眉电影高清
-http://192.168.50.1:8686/rtp/239.93.0.252:5140
 #EXTINF:-1 tvg-id="111" tvg-name="康巴卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Kangba.png" group-title="卫视",康巴卫视高清
 http://192.168.50.1:8686/rtp/239.93.0.41:5140
-#EXTINF:-1 tvg-id="193" tvg-name="凤凰卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix1.png" group-title="卫视",凤凰卫视高清
-http://192.168.50.1:8686/rtp/239.93.0.162:2192 
+#EXTINF:-1 tvg-id="193" tvg-name="凤凰中文" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix1.png" group-title="卫视",凤凰卫视高清
+http://192.168.50.1:8686/rtp/239.93.0.162:2192
 #EXTINF:-1 tvg-id="194" tvg-name="凤凰资讯" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix2.png" group-title="卫视",凤凰资讯高清
 http://192.168.50.1:8686/rtp/239.93.0.118:2191
 #EXTINF:-1 tvg-id="77" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="卫视",重庆卫视高清
@@ -108,7 +92,23 @@ http://192.168.50.1:8686/rtp/239.93.0.248:5140
 #EXTINF:-1 tvg-id="99" tvg-name="甘肃卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Gansu.png" group-title="卫视",甘肃卫视高清
 http://192.168.50.1:8686/rtp/239.93.0.81:5140
 #EXTINF:-1 tvg-id="102" tvg-name="陕西卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Shanxi.png" group-title="卫视",陕西卫视高清
-http://192.168.50.1:8686/rtp/239.93.0.143:5140	
+http://192.168.50.1:8686/rtp/239.93.0.143:5140
+#EXTINF:-1 tvg-id="113" tvg-name="SCTV2" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Sichuan1.png" group-title="四川",SCTV-2高清
+http://192.168.50.1:8686/rtp/239.93.1.101:5140
+#EXTINF:-1 tvg-id="114" tvg-name="SCTV3" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Sichuan2.png" group-title="四川",SCTV-3高清
+http://192.168.50.1:8686/rtp/239.93.1.102:5140
+#EXTINF:-1 tvg-id="115" tvg-name="SCTV4" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Sichuan3.png" group-title="四川",SCTV-4高清
+http://192.168.50.1:8686/rtp/239.93.0.47:5140
+#EXTINF:-1 tvg-id="116" tvg-name="SCTV5" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Sichuan4.png" group-title="四川",SCTV-5高清
+http://192.168.50.1:8686/rtp/239.93.0.166:5140
+#EXTINF:-1 tvg-id="117" tvg-name="SCTV7" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Sichuan5.png" group-title="四川",SCTV-7高清
+http://192.168.50.1:8686/rtp/239.93.0.219:5140
+#EXTINF:-1 tvg-id="118" tvg-name="SCTV8" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Sichuan7.png" group-title="四川",SCTV-科教高清
+http://192.168.50.1:8686/rtp/239.93.42.44:5140
+#EXTINF:-1 tvg-id="119" tvg-name="四川乡村" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Sichuan6.png" group-title="四川",四川乡村高清
+http://192.168.50.1:8686/rtp/239.93.0.52:5140
+#EXTINF:-1 tvg-id="420" tvg-name="峨眉电影" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Sichuan8.png" group-title="四川",峨眉电影高清
+http://192.168.50.1:8686/rtp/239.93.0.252:5140
 #EXTINF:-1 tvg-id="468" tvg-name="CDTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv1.png" group-title="四川",CDTV-1高清
 http://192.168.50.1:8686/rtp/239.93.0.16:5140
 #EXTINF:-1 tvg-id="469" tvg-name="CDTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv2.png" group-title="四川",CDTV-2高清
